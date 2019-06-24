@@ -10,7 +10,7 @@ The target is to predict meal's order num in the next week, our solution ranks 3
 
 * Group Features: Based on *price*, *promotion* and our generated *category_hotness* *etc*, we aggragate over *meal*, *region* and their combination *etc*.
 
-* Multi-dimensional Time Series Features: For each category group, we generate the *history* feature which records meal order statistics up to now.<br>
+* Multi-dimensional Time Series Features: For each category group, we generate the *history* feature which records meal order statistics up to now.
 Meanwhile, the 2-nd order(difference) features are further produced.
 
 #### Model
