@@ -1,4 +1,4 @@
-## Solution of Genpact Machine Learning Hackathon at Analytics Vidhya platform
+## Solution of Genpact Machine Learning Hackathon at Analytics Vidhya Platform
 
 The target of this hackathon is to predict meal's order num in the next week, our solution ranks 30 over 765 participants, please learn more details at the [competition home page](https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon/). 
 
