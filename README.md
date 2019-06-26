@@ -19,5 +19,5 @@ Meanwhile, the 2-nd order(difference) features are further produced.
 ## Contents
 
 * Under src folder, the ipython notebook file is about our exploring procedure.
-* **solution.py** is the final submission to the competition.
+* [solution.py](/src/solution.py) is the final submission to the competition.
 * To reproduce the result, it is necessary to create the **data** folder besides src and put all csv files into it.
